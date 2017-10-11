@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Jing Yuan"
+  avatar           : "Intro_JY.jpg"
+  bio              : "Professor, School of Math. & Stat., Xidian University"
+  location         : "Xi'an, China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.ca/citations?user=eMPV_ZkAAAAJ&hl=en"
+  email            : "jyuan@xidian.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "cn-jyuan"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,9 +104,9 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
-  weibo            :
+  wechat           : "cn.yuanjing"
   xing             :
   youtube          :
   wikipedia        :
