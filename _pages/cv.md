@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+## Notice
 This section is still under construction!
 {: .notice}
 
