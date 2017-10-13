@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV (Under construction)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+This section is still under construction!{: .notice}
 
 Education
 ======
