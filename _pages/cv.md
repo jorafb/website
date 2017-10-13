@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+##
 This section is still under construction!{: .notice}
 
 Education
