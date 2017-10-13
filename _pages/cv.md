@@ -24,7 +24,7 @@ Work experience
 ======
 * Aug. 2009 - July 2011: Postdoc Research Fellow (affiliated with Prof. Yuri Boykov and Prof. Olga Veksler)
   * [Computer Science Department, Western University](http://csd.uwo.ca/)
-  * Researches: new convex optimization theories and algorithms, with applications to image processing, computer vision and machine learning
+  * Researches: new convex optimization theories and algorithms, with applications to image processing, computer vision and machine learning [Robarts Research Institute](http://www.robarts.ca/)
 
 * Aug. 2011 - July 2016: Research Scientist
   * [Robarts Research Institute](http://www.robarts.ca/), [Western University](http://www.uwo.ca/)
