@@ -32,6 +32,7 @@ Work experience
   * [Schulich Medical School](http://www.schulich.uwo.ca/), [Western University](http://www.uwo.ca/)
   * Researches: high-performance optimization algorithms to medical image segmentation and registration, with applications to many different topics such as prostate zone segmentation in MRIs, cardiac left and right ventr. segmentation in MRIs, brain segmentation in MRIs, infant brain MRI registration and analysis, prostate ultrasound image segmentation, lung segmentation in functional MRIs etc.
   
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -50,6 +51,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
