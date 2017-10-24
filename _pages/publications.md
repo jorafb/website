@@ -13,11 +13,11 @@ author_profile: true
 
 ## Selected Journal Publications
 
-* J. Yuan, C. Schnörr, G. Steidl, _Convex Hodge Decomposition and Regularization of Image Flows_,
+* J. Yuan, C. Schnörr, G. Steidl, _<ins>Convex Hodge Decomposition and Regularization of Image Flows<ins>_,
 **Journal of Mathematical Imaging and Vision**, 33(2):169-177, 2009.
 
-* J. Yuan, C. Schnörr, E. Memin, _Discrete Orthogonal Decomposition and Variational Fluid Flow Estimation_, 
+* J. Yuan, C. Schnörr, E. Memin, _<ins>Discrete Orthogonal Decomposition and Variational Fluid Flow Estimation<ins>_, 
 **Journal of Mathematical Imaging and Vision**, 28:67-80, 2007.
 
-* J. Yuan, C. Schnörr, G. Steidl, _Simultaneous Optical Flow Estimation and Decomposition_, 
+* J. Yuan, C. Schnörr, G. Steidl, _<ins>Simultaneous Optical Flow Estimation and Decomposition<ins>_, 
 **SIAM Journal of Scientific Computing**, 29(6):2283-2304, 2007.
