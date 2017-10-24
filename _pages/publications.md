@@ -13,6 +13,65 @@ author_profile: true
 
 ## Selected Journal Publications
 
+* Wu Qiu, Jing Yuan, Eranga Ukwatta, Yue Sun, Martin Rajchl, Aaron Fenster, <ins>Prostate Segmentation:
+An Efficient Convex Optimization Approach With Axial Symmetry Using 3-D TRUS and
+MR Images</ins>. **IEEE Transactions on Medical Imaging**, 33(4): 947-960 (2014).
+
+* J. Yuan, E. Bae, X.-C. Tai, Y. Boykov, <ins>A spatially continuous max-flow and min-cut framework
+for binary labeling problems</ins>, **Numerische Mathematik**, 126(3): 559-587 (2014).
+
+* M. B. Salah, I. Ben Ayed, J. Yuan, H. Zhang, <ins>Convex-Relaxed Kernel Mapping for Image Segmentation</ins>,
+**IEEE Transactions on Image Processing**, 23(3): 1143-1153 (2014).
+
+* M. Rajchl, J. Yuan, J. A. White, E. Ukwatta, J. Stirrat, C. Nambakhsh, F. Li, T. Peters, <ins>Fast
+Hierarchical Max-Flow Segmentation of Scar Tissue from Late-Enhancement Cardiac MR Images</ins>,
+**IEEE Transactions on Medical Imaging**, 33(1): 159-172 (2014).
+
+* E. Ukwatta, J. Yuan, M. Rajchl, W. Qiu, A. Fenster, <ins>3D Carotid Multi-Region MRI Segmentation
+by Globally Optimal Evolution of Coupled Surfaces</ins>, **IEEE Transactions on Medical Imaging**,
+32(4): 770-785 (2013).
+
+* A. Soliman, J. Yuan, K. Vigen, J. White, T. Peters, C. McKenzie, <ins>Max-IDEAL: A Max-Flow
+Based Approach for IDEAL Water/Fat Separation</ins>, **Magnetic Resonance in Medicine**, Sept.
+(2013).
+
+* W. Qiu, J. Yuan, E. Ukwatta, D. Tessie, A. Fenster, <ins>3D Prostate Segmentation Using Level Set with
+Shape Constraint Based on Rotational Slices for 3D End-firing TRUS Guided Biopsy</ins>, **Medical
+Physics**, 40(7) (2013).
+
+* E. Ukwatta, J. Yuan, D. Buchanan, B. Chiu, J. Awad, W. Qiu, G. Parraga, A. Fenster, <ins>Three-
+Dimensional Segmentation of Three-Dimensional Ultrasound Carotid Atherosclerosis Using Sparse
+Field Level Sets</ins>, **Medical Physics**, 40 (2013).
+
+* J. Yuan, B. Miles, J. Shi, X.C. Tai, A. Fenster, <ins>Efficient Convex Optimization Approaches to
+Variational Image Fusion</ins>, **International Journal of Numerical & Applied Mathematics**,
+7: 234-250 (2014).
+
+* M. S. Nambakhsh, J. Yuan, Kumaradevan Punithakumar, Aashish Goela, Martin Rajchl, Terry
+M. Peters, Ismail Ben Ayed, <ins>Left Ventricle Segmentation in MRI via Convex Relaxed Distribution
+Matching</ins>, **Medical Image Analysis**, 17(8): 1010-1024 (2013).
+
+* K. Punithakumar, J. Yuan, I. B. Ayed, S. Li, Y. Boykov, <ins>A Convex Max-Flow Approach to
+Distribution Based Figure-Ground Separation</ins>, **SIAM Jounral on Imaging Sciences**, 5(4):
+1333-1354 (2012).
+
+* J. Yuan, E. Bae, X.-C. Tai, Y. Boykov, <ins>A Fast Continuous Max-Flow Approach to Potts Model</ins>,
+To appear in **Journal of Mathematical Imaging and Vision**, also UCLA Tech. Report CAM 11-85.
+
+* E. Bae, J. Yuan, X.-C. Tai, Y. Boykov, <ins>A Fast Continuous Max-Flow Approach to Non-Convex
+MultiLabeling Problems</ins>, **Efficient Algorithms for Global Optimization Methods in Computer
+Vision 2011**, also UCLA Tech. Report CAM 10-62.
+
+* E. Bae, J. Yuan, X. C. Tai, <ins>Simultaneous Convex Optimization of Regions and Region Parameters
+in Image Segmentation Models</ins>, **Innovations for Shape Analysis, Models and Algorithms**,
+421-438 (2011).
+
+* J. Yuan, J. Shi, X.-C. Tai, <ins>A Convex and Exact Approach to Discrete Constrained TV-L1 Image
+Approximation</ins>, **East Asian Journal on Applied Mathematics**, 1(2):172-186, 2011.
+
+* E. Bae, J. Yuan, X.C. Tai, <ins>Global Minimization for Continuous Multiphase Partitioning Problems
+Using a Dual Approach</ins>, **International Journal of Computer Vision**, 92(1):112-129, 2011.
+
 * J. Yuan, C. Schnörr, G. Steidl, <ins>Convex Hodge Decomposition and Regularization of Image Flows</ins>,
 **Journal of Mathematical Imaging and Vision**, 33(2):169-177, 2009.
 
