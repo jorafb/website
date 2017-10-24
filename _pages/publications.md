@@ -13,8 +13,8 @@ author_profile: true
 
 ## Selected Journal Publications
 
-* J. Yuan, C. Schnörr, E. Memin, **Discrete Orthogonal Decomposition and Variational Fluid Flow Estimation**, 
+* J. Yuan, C. Schnörr, E. Memin, _Discrete Orthogonal Decomposition and Variational Fluid Flow Estimation_, 
 **Journal of Mathematical Imaging and Vision**, 28:67-80, 2007.
 
-* J. Yuan, C. Schnörr, G. Steidl, **Simultaneous Optical Flow Estimation and Decomposition**, 
+* J. Yuan, C. Schnörr, G. Steidl, _Simultaneous Optical Flow Estimation and Decomposition_, 
 **SIAM Journal of Scientific Computing**, 29(6):2283-2304, 2007.
