@@ -45,20 +45,11 @@ Work experience
 Recent Publications 
 ======
 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
 {% if site.author.googlescholar %}
   The complete list of my articles can be found on <u><a href="https://scholar.google.ca/citations?user=eMPV_ZkAAAAJ"><i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i>my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
-
-## Selected Journal Publications
 
 * T. De Silva, Derek Cool, Jing Yuan, C. Romognoli, Aaron Fenster, Aaron Ward, <ins>Improving 2D-
 3D Registration Optimization using Learned Prostate Motions</ins>, **IEEE Transactions on Medical
