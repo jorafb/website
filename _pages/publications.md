@@ -13,7 +13,35 @@ author_profile: true
 
 ## Selected Journal Publications
 
-* Qiu Wu, Jing Yuan∗, Martin Rajchl, Jessica Kishimoto, Sandrine de Ribaupierre, Aaron Fenster,
+* T. De Silva, Derek Cool, Jing Yuan, C. Romognoli, Aaron Fenster, Aaron Ward, <ins>Improving 2D-
+3D Registration Optimization using Learned Prostate Motions</ins>, **IEEE Transactions on Medical
+Imaging**, to appear.
+
+* John Baxter, Martin Rajhl, Jing Yuan, Terry Peters, <ins>Directed Acyclic Graph Continuous Max-
+Flow Image Image Segmentation for Unconstrained Label Orderings</ins>, **International Journal of
+Computer Vision**, 123(3): 415–434 (2017).
+
+* Wu Qiu, Yimin Chen, Sandrine de Ribaupierre, Aaron Fenster, Jing Yuan, <ins>Longitudinal Analysis of Pre-Term Neonatal Cerebral Ventricles from 3D Ultrasound Images Using Spatial-Temporal Deformable Registration</ins>, **IEEE
+Transactions on Medical Imaging**, 36(4): 1016-1026 (2017).
+
+* Wu Qiu, Yimin Chen, Jessica Kishimoto, Sandrine de Ribaupierre, Bernard Chiu, Aaron Fenster,
+Jing Yuan, <ins>Automatic Segmentation Approach to Extracting Neonatal Cerebral Ventricles from
+3D Ultrasound Images</ins>, **Medical Image Analysis**, 35(1): 181-191 (2016).
+
+* Martin Rajchl, John Baxter, Jing Yuan, Terry Peters, <ins>Hierarchical Max-Flow Segmentation Framework
+For Multi-Atlas Segmentation with Kohonen Self-Organizing Map Based Gaussian Mixture
+Modeling</ins>, **Medical Image Analysis**, 27: 45-56 (2016).
+
+* Eranga Ukwatta, Jing Yuan∗, Martin Rajchl, Wu Qiu, Bernard Chiu, Aaron Fenster, <ins>Joint Segmentation
+of Lumen and Outer Wall from 3D Femoral Artery MR Images: Towards 3D Imaging
+Measurements of Peripheral Arterial Disease</ins>, **Medical Image Analysis**, 26(1): 120-132 (2015).
+
+* E. Ukwatta, H. Arevalo, K. Li, J. Yuan, P. Malamas, W. Qiu, K. C. Wu, N. A. Trayanova, F.
+Vadakkumpadan, <ins>Myocardial Infarct Segmentation from Magnetic Resonance Images for Personalized
+Modeling of Cardiac Electrophysiology</ins>, **IEEE Transactions on Medical Imaging**, 35(6):
+1408 - 1419 (2016).
+
+* Qiu Wu, Jing Yuan, Martin Rajchl, Jessica Kishimoto, Sandrine de Ribaupierre, Aaron Fenster,
 <ins>3D MR Ventricle Segmentation in Pre-Term Infants with Post-Hemorrhagic Ventricle Dilatation
 (PHVD) Using Multi-Phase Geodesic Level-Sets</ins>, **NeuroImage**, 118: 13-25 (2015).
 
