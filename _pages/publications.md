@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Selected Journal Publications
+## Journal Publications
 
 * T. De Silva, Derek Cool, Jing Yuan, C. Romognoli, Aaron Fenster, Aaron Ward, <ins>Improving 2D-
 3D Registration Optimization using Learned Prostate Motions</ins>, **IEEE Transactions on Medical
@@ -89,8 +89,7 @@ Hierarchical Max-Flow Segmentation of Scar Tissue from Late-Enhancement Cardiac 
 **IEEE Transactions on Medical Imaging**, 33(1): 159-172 (2014).
 
 * E. Ukwatta, J. Yuan, M. Rajchl, W. Qiu, A. Fenster, <ins>3D Carotid Multi-Region MRI Segmentation
-by Globally Optimal Evolution of Coupled Surfaces</ins>, **IEEE Transactions on Medical Imaging**,
-32(4): 770-785 (2013).
+by Globally Optimal Evolution of Coupled Surfaces</ins>, **IEEE Transactions on Medical Imaging**, 32(4): 770-785 (2013).
 
 * A. Soliman, J. Yuan, K. Vigen, J. White, T. Peters, C. McKenzie, <ins>Max-IDEAL: A Max-Flow
 Based Approach for IDEAL Water/Fat Separation</ins>, **Magnetic Resonance in Medicine**, Sept.
@@ -141,3 +140,11 @@ Using a Dual Approach</ins>, **International Journal of Computer Vision**, 92(1)
 
 * J. Yuan, C. Schnörr, G. Steidl, <ins>Simultaneous Optical Flow Estimation and Decomposition</ins>, 
 **SIAM Journal of Scientific Computing**, 29(6):2283-2304, 2007.
+
+## Selected Conference Publications
+
+* J. Yuan, K. Yin, B. Bai, X.C. Feng, X.C. Tai, <ins>Bregman-Proximal Augmented Lagrangian Approach
+to Multiphase Image Segmentation</ins>, **SSVM 2017**.
+
+* J. Baxter, J. Yuan, M. Drangova, T.M. Peters, J. Inoue, <ins>Shape Complexes in Continuous Max-Flow
+Segmentation</ins>, **SPIE 2016**.
