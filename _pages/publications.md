@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  You can also find my articles on <u><a href="https://scholar.google.ca/citations?user=eMPV_ZkAAAAJ"><i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i>my Google Scholar profile</a>.</u>
+  The complete list of my articles can be found on <u><a href="https://scholar.google.ca/citations?user=eMPV_ZkAAAAJ"><i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i>my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
