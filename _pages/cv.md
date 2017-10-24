@@ -51,8 +51,6 @@ Recent Publications
 
 {% include base_path %}
 
-##
-
 * T. De Silva, Derek Cool, Jing Yuan, C. Romognoli, Aaron Fenster, Aaron Ward, <ins>Improving 2D-
 3D Registration Optimization using Learned Prostate Motions</ins>, **IEEE Transactions on Medical
 Imaging**, to appear.
