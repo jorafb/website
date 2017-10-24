@@ -25,21 +25,21 @@ Education
 Work experience
 ======
 
-* <ins>Aug. 2009 - July 2011</ins>: Postdoc Research Fellow (affiliated with Prof. Yuri Boykov and Prof. Olga Veksler)
-  * [Computer Science Department, Western University, Canada](http://csd.uwo.ca/)
-  * Researches: new convex optimization theories and algorithms, with applications to image processing, computer vision and machine learning
+* <ins>Aug. 2016 - now</ins>: Professor
+  * [School of Mathematics and Statistics](http://math.xidian.edu.cn/), [Xidian University, China](http://www.xidian.edu.cn/)
+  * Researches: new theries and methods in optimization and variational analysis, with applications to computer vision and machine learning
+  
+* <ins>April 2013 - July 2016</ins>: Adjunct Research Professor
+  * [Schulich Medical School](http://www.schulich.uwo.ca/), [Western University, Canada](http://www.uwo.ca/)
+  * Researches: high-performance optimization algorithms to medical image segmentation and registration, with applications to many different topics such as prostate zone segmentation in MRIs, cardiac left and right ventr. segmentation in MRIs, brain segmentation in MRIs, infant brain MRI registration and analysis, prostate ultrasound image segmentation, lung segmentation in functional MRIs etc.
 
 * <ins>Aug. 2011 - July 2016</ins>: Research Scientist
   * [Robarts Research Institute](http://www.robarts.ca/), [Western University, Canada](http://www.uwo.ca/)
   * Researches: large-scale and parallel optimization methods, with applications to medical image analysis (segmentation / registration), machine learning
 
-* <ins>April 2013 - July 2016</ins>: Adjunct Research Professor
-  * [Schulich Medical School](http://www.schulich.uwo.ca/), [Western University, Canada](http://www.uwo.ca/)
-  * Researches: high-performance optimization algorithms to medical image segmentation and registration, with applications to many different topics such as prostate zone segmentation in MRIs, cardiac left and right ventr. segmentation in MRIs, brain segmentation in MRIs, infant brain MRI registration and analysis, prostate ultrasound image segmentation, lung segmentation in functional MRIs etc.
-  
-* <ins>Aug. 2016 - now</ins>: Professor
-  * [School of Mathematics and Statistics](http://math.xidian.edu.cn/), [Xidian University, China](http://www.xidian.edu.cn/)
-  * Researches: new theries and methods in optimization and variational analysis, with applications to computer vision and machine learning
+* <ins>Aug. 2009 - July 2011</ins>: Postdoc Research Fellow (affiliated with Prof. Yuri Boykov and Prof. Olga Veksler)
+  * [Computer Science Department, Western University, Canada](http://csd.uwo.ca/)
+  * Researches: new convex optimization theories and algorithms, with applications to image processing, computer vision and machine learning
   
   
 Recent Publications 
