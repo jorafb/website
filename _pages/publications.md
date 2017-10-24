@@ -13,6 +13,39 @@ author_profile: true
 
 ## Selected Journal Publications
 
+* Qiu Wu, Jing Yuan∗, Martin Rajchl, Jessica Kishimoto, Sandrine de Ribaupierre, Aaron Fenster,
+<ins>3D MR Ventricle Segmentation in Pre-Term Infants with Post-Hemorrhagic Ventricle Dilatation
+(PHVD) Using Multi-Phase Geodesic Level-Sets</ins>, **NeuroImage**, 118: 13-25 (2015).
+
+* Yue Sun, Wu Qiu, Jing Yuan, Cesare Romagnoli, Aaron Fenster, <ins>Three-Dimensional Non-Rigid
+Landmark-Based Magnetic Resonance to Transrectal Ultrasound Registration for Image-Guided
+Prostate Biopsy</ins>, **Journal of Medical Imaging**, 2(2): 025002-025002 (2015).
+
+* Fumin Guo, Jing Yuan, Sarah Svenningsen, Dante Capaldi, Aaron Fenster, Grace Parraga, <ins>Globally
+Optimal Co-Segmentation of Three-dimensional Pulmonary 1H and Hyperpolarized 3He MRI
+with Spatial Consistence Prior</ins>, **Medical Image Analysis**, 23(1): 43-55 (2015).
+
+* Yue Sun, Jing Yuan, Wu Qiu, Martin Rajchl, Cesare Romagnoli, Aaron Fenster, <ins>Three-Dimensional
+Non-Rigid MR-TRUS Registration Using Dual Optimization</ins>, **IEEE Transactions on Medical
+Imaging**, 34(5): 1085-1095 (2015).
+
+* Wu Qiu, Jing Yuan, Jessica Kishimoto, Jonathan McLeod, Yimin Chen, Sandrine de Ribaupierre,
+Aaron Fenster, <ins>User-Guided Segmentation of Preterm Neonate Ventricular System from 3D Ultrasound
+Images Using Convex Optimization</ins>, **Ultrasound in Medicine and Biology**, 41(2): 542-556 (2015).
+
+* Wu Qiu, Jing Yuan, Eranga Ukwatta, Aaron Fenster, <ins>Rotationally Resliced 3D Prostate TRUS
+Segmentation Using Convex Optimization with Shape Priors</ins>, **Medical Physics**, 42(2): 877-891
+(2015).
+
+* with Caroline Petitjean etc., <ins>Right Ventricle Segmentation from Cardiac MRI: a Collation Study</ins>,
+**Medical Image Analysis**, 19(1): 187-202 (2015).
+
+* W. Qiu, J. Yuan, E. Ukwatta, S. Yue, M. Rajchl, A. Fenster, <ins>Dual Optimization Based Prostate
+Zonal Segmentation in 3D MR Images</ins>, **Medical Image Analysis**, 18(4): 660–673 (2014).
+
+* with G. J. S. Litjens, etc., <ins>Evaluation of prostate segmentation algorithms for MRI: The PROMISE12
+challenge</ins>, **Medical Image Analysis**, 18(2): 359-373 (2014).
+
 * Wu Qiu, Jing Yuan, Eranga Ukwatta, Yue Sun, Martin Rajchl, Aaron Fenster, <ins>Prostate Segmentation:
 An Efficient Convex Optimization Approach With Axial Symmetry Using 3-D TRUS and
 MR Images</ins>. **IEEE Transactions on Medical Imaging**, 33(4): 947-960 (2014).
