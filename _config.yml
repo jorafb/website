@@ -305,4 +305,3 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-minimal
-minimal_mistakes_skin : "air" #"default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
