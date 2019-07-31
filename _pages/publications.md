@@ -15,9 +15,11 @@ author_profile: true
 
 * Shengjie Xu, Jing Yuan, Bingsheng He, <ins>Proximal Augmented Lagrangian Method for Convex Optimization with Linear Inequality Constraints</ins>, **SIAM Journal on Optimization**, in submission, see also: http://www.optimization-online.org/DB\_HTML/2019/05/7204.html .
 
+* Xiaopan Xu, Xi Zhang, Ismail Ben Ayed, Jing Yuan, Hongbing Lu, <ins>Quantitative Identification of Nonmuscle‐Invasive and Muscle‐Invasive Bladder Carcinomas: A Multiparametric MRI Radiomics Analysis</ins>, **Journal of Magnetic Resonance Imaging**, 49(5): 1489-1498 (2019).
+
 * Jing Yuan, Ismail Ben Ayed, Aaron Fenster, <ins>Fast Dual Optimization Methods with Applications to Medical Image Segmentation and Registration</ins>, **Big Data in Multimodal Medical Imaging**, CRC publisher 2019.
 
-* Hongpeng Sun, Xue-cheng Tai, Jing Yuan, <ins>Accelerated Dual Optimization to Multiphase Potts Model</ins>, **SIAM Journal on Imaging Science**, in submission .
+* Hongpeng Sun, Xue-cheng Tai, Jing Yuan, <ins>Accelerated Dual Optimization to Multiphase Potts Model</ins>, **SIAM Journal on Imaging Science**, in submission.
 
 * Jing Yuan, Aaron Fenster, <ins>Modern Convex Optimization to Medical Image Analysis</ins>, 
 **Convex Optimization: Theory, Methods and Applications**, Nova Science Publishers 2019, also arXiv:1809.08734.
