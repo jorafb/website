@@ -13,12 +13,27 @@ author_profile: true
 
 ## Journal Publications
 
+* Shengjie Xu, Jing Yuan, Bingsheng He, <ins>Proximal Augmented Lagrangian Method for Convex Optimization with Linear Inequality Constraints</ins>, **SIAM Journal on Optimization**, in submission, see also: http://www.optimization-online.org/DB\_HTML/2019/05/7204.html .
+
+* Jing Yuan, Ismail Ben Ayed, Aaron Fenster, <ins>Fast Dual Optimization Methods with Applications to Medical Image Segmentation and Registration</ins>, **Big Data in Multimodal Medical Imaging**, CRC publisher 2019.
+
+* Hongpeng Sun, Xue-cheng Tai, Jing Yuan, <ins>Accelerated Dual Optimization to Multiphase Potts Model</ins>, **SIAM Journal on Imaging Science**, in submission .
+
+* Jing Yuan, Aaron Fenster, <ins>Modern Convex Optimization to Medical Image Analysis</ins>, 
+**Convex Optimization: Theory, Methods and Applications**, Nova Science Publishers 2019, also arXiv:1809.08734.
+
+* Hoel Kervadec, Jose Dolz, Christian Desrosiers, Jing Yuan, Ismail Ben Ayed, <ins>Log-Barrier Constrained CNNs with Applications</ins>, **IEEE Transactions on Pattern Analysis and Machine Intelligence**, in submission.
+
+* Jinlian Ma, Fa Wu, Dexing Kong, Jing Yuan, <ins>A Novel Densely Connected CNN for Segmenting Nodular Lesions from Hyroid and Breast Ultrasound Images</ins>, **Pattern Recognition**, in submission.
+
+* Yigunag Bai,  Jing Yuan, Sanyang Liu, Ke Yin, <ins>Variational Community Partition with Novel Network Structure Centrality Prior</ins>, **Applied Mathematical Modelling**, 75:333-348 2019, also arXiv:1811.04543
+
 * Jose Dolz, Karthik Gopinath, Jing Yuan, Herve Lombaert, Christian Desrosiers, Ismail Ben Ayed,
- <ins>HyperDense-Net: A Hyper-Densely Connected CNN for Multi-Modal Image Segmentation</ins>, **IEEE Transactions on Medical Imaging**, in print, see also arXiv:1804.02967.
+ <ins>HyperDense-Net: A Hyper-Densely Connected CNN for Multi-Modal Image Segmentation</ins>, **IEEE Transactions on Medical Imaging**, 38(5): 1116-1126, 2019, see also arXiv:1804.02967.
 
 * Jose Dolz, Christian Desrosiers, Li Wang, Jing Yuan, Dinggang Shen, Ismail Ben Ayed, <ins>Deep CNN ensembles and suggestive annotations for infant brain MRI segmentation</ins>, **Medical Image Analysis**, in submission, see also arXiv:1712.05319.
 
-* Jose Dolz, Xiaopan Xu, Jerome Rony, Jing Yuan, Yang Liu, Eric Granger, Christian Desrosiers, Xi Zhang, Ismail Ben Ayed, Hongbing Lu, <ins>Multi-region segmentation of bladder cancer structures in MRI with progressive dilated convolutional networksr</ins>, **Medical Physics**, accepted.
+* Jose Dolz, Xiaopan Xu, Jerome Rony, Jing Yuan, Yang Liu, Eric Granger, Christian Desrosiers, Xi Zhang, Ismail Ben Ayed, Hongbing Lu, <ins>Multi-region segmentation of bladder cancer structures in MRI with progressive dilated convolutional networksr</ins>, **Medical Physics**, 45(12): 5482-5493 (2018).
 
 * T. De Silva, Derek Cool, Jing Yuan, C. Romognoli, Aaron Fenster, Aaron Ward, <ins>Improving 2D-
 3D Registration Optimization using Learned Prostate Motions</ins>, **IEEE Transactions on Medical
@@ -150,6 +165,8 @@ Using a Dual Approach</ins>, **International Journal of Computer Vision**, 92(1)
 
 ## Selected Conference Publications
 
+* Jose Dolz, Ismail Ben Ayed, Jing Yuan, Christian Desrosiers, <ins>HyperDense-Net: A densely connected CNN for multi-modal image segmentation</ins>, **ISBI 2018**
+  
 * J. Yuan, K. Yin, B. Bai, X.C. Feng, X.C. Tai, <ins>Bregman-Proximal Augmented Lagrangian Approach
 to Multiphase Image Segmentation</ins>, **SSVM 2017**.
 
