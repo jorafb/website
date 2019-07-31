@@ -26,6 +26,8 @@ author_profile: true
 
 * Hoel Kervadec, Jose Dolz, Christian Desrosiers, Jing Yuan, Ismail Ben Ayed, <ins>Log-Barrier Constrained CNNs with Applications</ins>, **IEEE Transactions on Pattern Analysis and Machine Intelligence**, in submission.
 
+* Xiaopan Xu, Huanjun Wang, Hongwei Zhang, Jing Yuan, Hongbing Lu, <ins>A predictive nomogram for individualized recurrence stratification of bladder cancer using multiparametric MRI and clinical risk factors</ins>, **Journal of Magnetic Resonance Imaging**, online in april 2019.
+
 * Jinlian Ma, Fa Wu, Dexing Kong, Jing Yuan, <ins>A Novel Densely Connected CNN for Segmenting Nodular Lesions from Hyroid and Breast Ultrasound Images</ins>, **Pattern Recognition**, in submission.
 
 * Yigunag Bai,  Jing Yuan, Sanyang Liu, Ke Yin, <ins>Variational Community Partition with Novel Network Structure Centrality Prior</ins>, **Applied Mathematical Modelling**, 75:333-348 2019, also arXiv:1811.04543
