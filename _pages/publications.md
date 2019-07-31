@@ -24,7 +24,7 @@ author_profile: true
 * Jing Yuan, Aaron Fenster, <ins>Modern Convex Optimization to Medical Image Analysis</ins>, 
 **Convex Optimization: Theory, Methods and Applications**, Nova Science Publishers 2019, also arXiv:1809.08734.
 
-* Hoel Kervadec, Jose Dolz, Christian Desrosiers, Jing Yuan, Ismail Ben Ayed, <ins>Log-Barrier Constrained CNNs with Applications</ins>, **IEEE Transactions on Pattern Analysis and Machine Intelligence**, in submission.
+* Hoel Kervadec, Jose Dolz, Christian Desrosiers, Jing Yuan, Ismail Ben Ayed, <ins>Log-Barrier Constrained CNNs with Applications</ins>, **IEEE Transactions on Pattern Analysis and Machine Intelligence**, in submission, also arXiv:1904.04205.
 
 * Xiaopan Xu, Huanjun Wang, Hongwei Zhang, Jing Yuan, Hongbing Lu, <ins>A predictive nomogram for individualized recurrence stratification of bladder cancer using multiparametric MRI and clinical risk factors</ins>, **Journal of Magnetic Resonance Imaging**, online in april 2019.
 
