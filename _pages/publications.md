@@ -13,9 +13,16 @@ author_profile: true
 
 ## Journal Publications
 
+* Jose Dolz, Karthik Gopinath, Jing Yuan, Herve Lombaert, Christian Desrosiers, Ismail Ben Ayed,
+ <ins>HyperDense-Net: A Hyper-Densely Connected CNN for Multi-Modal Image Segmentation</ins>, **IEEE Transactions on Medical Imaging**, in print, see also arXiv:1804.02967.
+
+* Jose Dolz, Christian Desrosiers, Li Wang, Jing Yuan, Dinggang Shen, Ismail Ben Ayed, <ins>Deep CNN ensembles and suggestive annotations for infant brain MRI segmentation</ins>, **Medical Image Analysis**, in submission, see also arXiv:1712.05319.
+
+* Jose Dolz, Xiaopan Xu, Jerome Rony, Jing Yuan, Yang Liu, Eric Granger, Christian Desrosiers, Xi Zhang, Ismail Ben Ayed, Hongbing Lu, <ins>Multi-region segmentation of bladder cancer structures in MRI with progressive dilated convolutional networksr</ins>, **Medical Physics**, accepted.
+
 * T. De Silva, Derek Cool, Jing Yuan, C. Romognoli, Aaron Fenster, Aaron Ward, <ins>Improving 2D-
 3D Registration Optimization using Learned Prostate Motions</ins>, **IEEE Transactions on Medical
-Imaging**, to appear.
+Imaging**, 36(10):2010-2020 (2017).
 
 * John Baxter, Martin Rajhl, Jing Yuan, Terry Peters, <ins>Directed Acyclic Graph Continuous Max-
 Flow Image Image Segmentation for Unconstrained Label Orderings</ins>, **International Journal of
@@ -32,14 +39,14 @@ Jing Yuan, <ins>Automatic Segmentation Approach to Extracting Neonatal Cerebral 
 For Multi-Atlas Segmentation with Kohonen Self-Organizing Map Based Gaussian Mixture
 Modeling</ins>, **Medical Image Analysis**, 27: 45-56 (2016).
 
-* Eranga Ukwatta, Jing Yuan∗, Martin Rajchl, Wu Qiu, Bernard Chiu, Aaron Fenster, <ins>Joint Segmentation
-of Lumen and Outer Wall from 3D Femoral Artery MR Images: Towards 3D Imaging
-Measurements of Peripheral Arterial Disease</ins>, **Medical Image Analysis**, 26(1): 120-132 (2015).
-
 * E. Ukwatta, H. Arevalo, K. Li, J. Yuan, P. Malamas, W. Qiu, K. C. Wu, N. A. Trayanova, F.
 Vadakkumpadan, <ins>Myocardial Infarct Segmentation from Magnetic Resonance Images for Personalized
 Modeling of Cardiac Electrophysiology</ins>, **IEEE Transactions on Medical Imaging**, 35(6):
 1408 - 1419 (2016).
+
+* Eranga Ukwatta, Jing Yuan∗, Martin Rajchl, Wu Qiu, Bernard Chiu, Aaron Fenster, <ins>Joint Segmentation
+of Lumen and Outer Wall from 3D Femoral Artery MR Images: Towards 3D Imaging
+Measurements of Peripheral Arterial Disease</ins>, **Medical Image Analysis**, 26(1): 120-132 (2015).
 
 * Qiu Wu, Jing Yuan, Martin Rajchl, Jessica Kishimoto, Sandrine de Ribaupierre, Aaron Fenster,
 <ins>3D MR Ventricle Segmentation in Pre-Term Infants with Post-Hemorrhagic Ventricle Dilatation
