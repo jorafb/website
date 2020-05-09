@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "J. R. Fuentes website"
+title                    : "J. R. Fuentes"
 title_separator          : "-"
 name                     : &name "J. R. Fuentes"
 description              : &description "Ph.D. student @ Physics Department and McGill Space Institute, McGill University"
