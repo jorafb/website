@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "J. R. Fuentes website"
 title_separator          : "-"
 name                     : &name "J. R. Fuentes"
-description              : &description "personal description"
+description              : &description "Ph.D. student @ Physics Department and McGill Space Institute, McGill University"
 url                      : https://jorafb.github.io/website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
