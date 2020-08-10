@@ -25,4 +25,7 @@ The physics behind glitches are not completely understood, but these phenomena a
 
 I have done two research projects on glitches. The first project is an update and analysis of an unbiased sample of glitches in all neutron stars for which systematic records of timing observations are available, in order to understand how the glitch activity (spin-up rate due to glitches) depends on other properties of the pulsars (spin frequency, spin‐down rate, and various combinations of these, such as energy loss rate, magnetic field, and spin‐down age). The second project is an study the sequence of glitches of a few of the most prolific pulsars as a time series, in order to determine to what extent this sequence and the relation between glitch sizes and time intervals between them are random or follow some regularities, which might give some insight into the glitch mechanisms.
 
+### Publications
 
+* [Fuentes et al. 2017](https://ui.adsabs.harvard.edu/abs/2017A%26A...608A.131F/abstract)
+* [Fuentes et al. 2019](https://ui.adsabs.harvard.edu/abs/2019A%26A...630A.115F/abstract)
