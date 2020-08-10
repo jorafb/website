@@ -7,6 +7,6 @@ author_profile: true
 ## BLBLBLA
 
 <figure>
-  <img src="https://jorafb.github.io/website/images/layers.png" alt="Convective layers" class="center" style="width:30%">
+  <img src="https://jorafb.github.io/website/images/layers.png" alt="Convective layers" class="center" style="width:100%">
   <figcaption>Fig. x - bla. </figcaption>
 </figure>
