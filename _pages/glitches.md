@@ -1,7 +1,9 @@
 ---
 permalink: /glitches/
 title: "Pulsar Glitches"
-
+redirect_from: 
+  - /glitches/
+  - /glitches.html
 author_profile: true
 ---
 
