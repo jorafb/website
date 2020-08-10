@@ -1,6 +1,7 @@
 ---
-permalink: /portfolio/
+permalink: /glitches/
 title: "Pulsar Glitches"
+
 author_profile: true
 ---
 
