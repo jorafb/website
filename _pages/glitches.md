@@ -19,7 +19,7 @@ In other words, we see neutron stars turn on and off as the beam sweeps over Ear
 
 
 <figure>
-  <img src="https://jorafb.github.io/website/images/fig_glitch.png" alt="Pulsar" class="center" style="width:30%">
+  <img src="https://jorafb.github.io/website/images/fig_glitch.png" alt="Pulsar" class="center" style="width:50%">
   <figcaption>Fig. 2 - Rotation frequency as a function of time for the PSR B0533+54. The data comes from the Jodrell Bank Observatory (JBO) and was provided by Cristóbal Espinoza.</figcaption>
 </figure>
 
