@@ -1,6 +1,6 @@
 ---
 permalink: /ddc/
-title: "Double-diffusive convection"
+title: "Hydrodynamics simulations of convection with composition gradients"
 author_profile: true
 ---
 
