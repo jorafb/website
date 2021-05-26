@@ -15,5 +15,5 @@ Giant planets like Jupiter, which undergo strong convection in their gaseous env
 
 ### Publications
 
-* [Fuentes et al. 2021 : Penetration of a cooling convective layer into a stably-stratified composition gradient: Entrainment at low Prandtl number](https://ui.adsabs.harvard.edu/abs/2020PhRvF...5l4501F/abstract)
+* [Fuentes et al. 2020 : Penetration of a cooling convective layer into a stably-stratified composition gradient: Entrainment at low Prandtl number](https://ui.adsabs.harvard.edu/abs/2020PhRvF...5l4501F/abstract)
 
