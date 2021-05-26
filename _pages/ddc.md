@@ -10,5 +10,5 @@ Giant planets like Jupiter, which undergo strong convection in their gaseous env
 
 <figure>
   <img src="https://jorafb.github.io/website/images/conv_zone.png" alt="Convective layers" class="center" style="width:100%">
-  <figcaption>Fig. 1 : Convection zone propagating inwards. Blue (red) color represents low (high) temperature. Note how convective eddies impinging on the interface incorporate fluid from below. The snapshot was taken from Fig. 1 in Fuentes & Cumming (2021) . </figcaption>
+  <figcaption>Fig. 1 : Convection zone propagating inward. Blue (red) color represents low (high) temperature. Note how convective eddies impinging on the interface incorporate fluid from below. The snapshot was taken from Fig. 1 in Fuentes & Cumming (2021) . </figcaption>
 </figure>
