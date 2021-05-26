@@ -27,5 +27,5 @@ How the glitch activity (spin-up rate due to glitches) depends on the properties
 
 ### Publications
 
-* [Fuentes et al. 2017](https://ui.adsabs.harvard.edu/abs/2017A%26A...608A.131F/abstract)
-* [Fuentes et al. 2019](https://ui.adsabs.harvard.edu/abs/2019A%26A...630A.115F/abstract)
+* [Fuentes et al. 2017 : The glitch activity of neutron stars](https://ui.adsabs.harvard.edu/abs/2017A%26A...608A.131F/abstract)
+* [Fuentes et al. 2019 : Glitch time series and size distributions in eight prolific pulsars](https://ui.adsabs.harvard.edu/abs/2019A%26A...630A.115F/abstract)
