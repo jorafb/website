@@ -1,6 +1,6 @@
 ---
 permalink: /ddc/
-title: "Hydrodynamics simulations of convection with composition gradients"
+title: "Hydrodynamic simulations of convection with composition gradients"
 author_profile: true
 ---
 
